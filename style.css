@@ -1,0 +1,67 @@
+/* BODY */
+body {
+  background-color: #f4f4f4;
+  color: #333;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* CONTAINER */
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+/* CARD */
+.card-white {
+  background: white;
+  padding: 30px;
+  margin: 20px 0;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+/* TEXT */
+.text-center {
+  text-align: center;
+}
+
+/* IMAGE */
+.img-circle {
+  width: 150px;
+  border-radius: 50%;
+}
+
+/* TITRES */
+h1 {
+  color: #2ecc71;
+}
+
+h2 {
+  color: #34495e;
+}
+
+/* BOUTON */
+.btn-blue {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.btn-blue:hover {
+  background-color: #2ecc71;
+}
+
+/* LISTE */
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-inline > li {
+  display: inline;
+  padding: 0 20px;
+}
